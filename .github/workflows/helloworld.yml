@@ -16,7 +16,7 @@ jobs:
     - uses: actions/checkout@v2
     # Step2: Muestra mensaje
     - name: Ejecutar comandos
-    run: |
-      echo ============
-      echo Hello World!
-      echo ============
+      run: |
+        echo ============
+        echo Hello World!
+        echo ============
